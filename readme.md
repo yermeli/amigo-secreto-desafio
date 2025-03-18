@@ -7,6 +7,4 @@ Mi actividad de one sobre la actividad del challenge del amigo secreto.
 
 Funciones del programa
 
-<li>Agregar amigo</li>
-<li>Sortear amigo</li>
-<li>Validar la entrada del Usuario (input)</li>
+Agregar amigo, Sortear amigo y Validar la entrada del Usuario (input)</li>
